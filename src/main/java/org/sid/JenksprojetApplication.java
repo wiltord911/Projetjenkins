@@ -1,14 +1,14 @@
 package org.sid;
 
-import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.SpringBootApplication;
+//import org.springframework.boot.SpringApplication;
+//import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication
+//@SpringBootApplication
 public class JenksprojetApplication {
 
 	public static void main(String[] args) {
 		System.out.println("hello word !!!!!!!!");
-		SpringApplication.run(JenksprojetApplication.class, args);
+		//SpringApplication.run(JenksprojetApplication.class, args);
 	}
 
 }
