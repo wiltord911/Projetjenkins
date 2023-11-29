@@ -7,7 +7,7 @@ package org.sid;
 public class JenksprojetApplication {
 
 	public static void main(String[] args) {
-		System.out.println("hello tout le monde !!!!!!!!");
+		System.out.println("hello tout le monde !!");
 		//SpringApplication.run(JenksprojetApplication.class, args);
 	}
 
